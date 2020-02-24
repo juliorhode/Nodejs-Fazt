@@ -1,0 +1,21 @@
+{
+  "name": "tercer-paso",
+  "version": "1.0.0",
+  "description": "Curso de Nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "curso",
+    "servidor"
+  ],
+  "author": "Julio Rhode",
+  "license": "ISC"
+}
